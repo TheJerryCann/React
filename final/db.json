@@ -1,0 +1,304 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "title": "Tesla Model S",
+      "price": 79990,
+      "description": "Experience cutting-edge technology and electric efficiency with the Tesla Model S, featuring autopilot capabilities and a sleek design.",
+      "category": "Electric",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2018_Tesla_Model_S_75D.jpg/280px-2018_Tesla_Model_S_75D.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 10200
+      }
+    },
+    {
+      "id": "2",
+      "title": "Ford Mustang",
+      "price": 35595,
+      "description": "Enjoy the classic American muscle car with modern performance. The Ford Mustang offers thrilling rides and an iconic design.",
+      "category": "Sports",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2018_Ford_Mustang_GT_5.0.jpg/280px-2018_Ford_Mustang_GT_5.0.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 35000
+      }
+    },
+    {
+      "id": "3",
+      "title": "Jeep Wrangler",
+      "price": 28695,
+      "description": "Tackle any terrain with the rugged Jeep Wrangler, designed for off-road adventures with advanced 4x4 systems.",
+      "category": "Off-Road",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeep_JK_Wrangler_Sahara_2-Door_Convertible.jpg/280px-Jeep_JK_Wrangler_Sahara_2-Door_Convertible.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 29000
+      }
+    },
+    {
+      "id": "4",
+      "title": "Toyota Camry",
+      "price": 24425,
+      "description": "The Toyota Camry stands out with its reliability and efficiency, offering a comfortable ride and advanced safety features.",
+      "category": "Sedan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/280px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 8700
+      }
+    },
+    {
+      "id": "5",
+      "title": "Chevrolet Corvette",
+      "price": 58900,
+      "description": "Drive with style and power in the Chevrolet Corvette, featuring a V8 engine and exceptional handling for a sporty experience.",
+      "category": "Sports",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2021_Chevrolet_Corvette_C8.jpg/280px-2021_Chevrolet_Corvette_C8.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 11000
+      }
+    },
+    {
+      "id": "6",
+      "title": "Land Rover Range Rover",
+      "price": 89700,
+      "description": "The Land Rover Range Rover combines luxury and utility, perfect for both city driving and off-road excursions.",
+      "category": "Luxury SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Front.jpg/280px-2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Front.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 9000
+      }
+    },
+    {
+      "id": "7",
+      "title": "Honda Civic",
+      "price": 20650,
+      "description": "The Honda Civic offers a balance of performance and comfort, with a sporty design and efficient performance.",
+      "category": "Compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg/280px-2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 25000
+      }
+    },
+    {
+      "id": "8",
+      "title": "Porsche 911",
+      "price": 99900,
+      "description": "The Porsche 911 is synonymous with precision and performance, offering dynamic driving and timeless style.",
+      "category": "Sports",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg/280px-Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg",
+      "rating": {
+        "rate": 3.5,
+        "count": 22000
+      }
+    },
+    {
+      "id": "9",
+      "title": "Audi A4",
+      "price": 39900,
+      "description": "The Audi A4 features a balance of luxury and performance, equipped with advanced technology and a comfortable interior.",
+      "category": "Luxury Sedan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg/280px-Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 9400
+      }
+    },
+    {
+      "id": "10",
+      "title": "Mercedes-Benz G-Class",
+      "price": 131750,
+      "description": "Iconic design and uncompromising luxury define the Mercedes-Benz G-Class, a high-end SUV with robust off-road capabilities.",
+      "category": "Luxury SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mercedes-Benz_W463_G_350_BlueTEC_01.jpg/280px-Mercedes-Benz_W463_G_350_BlueTEC_01.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 31000
+      }
+    },
+    {
+      "id": "11",
+      "title": "BMW 3 Series",
+      "price": 41300,
+      "description": "Experience sporty agility and innovative technology with the BMW 3 Series, a leader in the luxury sedan category.",
+      "category": "Luxury",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2005-2008_BMW_320i_%28E90%29_sedan_%282011-07-17%29_01.jpg/280px-2005-2008_BMW_320i_%28E90%29_sedan_%282011-07-17%29_01.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 40000
+      }
+    },
+    {
+      "id": "12",
+      "title": "Volkswagen Golf",
+      "price": 23545,
+      "description": "The Volkswagen Golf offers versatility and efficiency, making it a great choice for city driving with a compact and functional design.",
+      "category": "Compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2020_Volkswagen_Golf_Style_1.5_Front.jpg/280px-2020_Volkswagen_Golf_Style_1.5_Front.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 21000
+      }
+    },
+    {
+      "id": "13",
+      "title": "Nissan GT-R",
+      "price": 113540,
+      "description": "The Nissan GT-R offers unmatched performance with its advanced technology and twin-turbo V6 engine, a true supercar for the track and the street.",
+      "category": "Sports",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_Nissan_GT-R_Premium_in_Super_Silver%2C_Front_Right%2C_10-11-2022.jpg/280px-2018_Nissan_GT-R_Premium_in_Super_Silver%2C_Front_Right%2C_10-11-2022.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 8500
+      }
+    },
+    {
+      "id": "14",
+      "title": "Subaru Outback",
+      "price": 26545,
+      "description": "The Subaru Outback is renowned for its reliability and versatility, equipped with all-wheel drive and ample cargo space for adventure seekers.",
+      "category": "Crossover",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2023_Subaru_Outback_Premium%2C_front_right%2C_09-09-2023.jpg/280px-2023_Subaru_Outback_Premium%2C_front_right%2C_09-09-2023.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 48000
+      }
+    },
+    {
+      "id": "15",
+      "title": "Ford F-150",
+      "price": 29040,
+      "description": "America's best-selling pickup, the Ford F-150 is synonymous with durability and capability, perfect for work or weekend getaways.",
+      "category": "Pickup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2022_Ford_F-150_Lightning_Lariat_in_Atlas_Blue_Metallic%2C_Front_Right%2C_08-06-2022.jpg/280px-2022_Ford_F-150_Lightning_Lariat_in_Atlas_Blue_Metallic%2C_Front_Right%2C_08-06-2022.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 16000
+      }
+    },
+    {
+      "id": "16",
+      "title": "Kia Telluride",
+      "price": 32190,
+      "description": "The Kia Telluride stands out in the SUV category with its bold design, spacious interior, and advanced safety features, ideal for family journeys.",
+      "category": "SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2022_Kia_Telluride_EX_%28facelift%29%2C_front_4.16.23.jpg/280px-2022_Kia_Telluride_EX_%28facelift%29%2C_front_4.16.23.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 11000
+      }
+    },
+    {
+      "id": "17",
+      "title": "Mazda MX-5 Miata",
+      "price": 26330,
+      "description": "The Mazda MX-5 Miata offers pure driving pleasure with its lightweight design and balanced handling, a modern take on the classic roadster.",
+      "category": "Convertible",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mazda_MX-5_%28ND%29_1X7A7471.jpg/280px-Mazda_MX-5_%28ND%29_1X7A7471.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 15000
+      }
+    },
+    {
+      "id": "18",
+      "title": "Hyundai Elantra",
+      "price": 19550,
+      "description": "The Hyundai Elantra stands as a solid compact car choice with its sleek design, comfortable interior, and efficient performance.",
+      "category": "Compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hyundai_Avante_CN7_white_%2810%29_%28cropped%29.jpg/280px-Hyundai_Avante_CN7_white_%2810%29_%28cropped%29.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 21000
+      }
+    },
+    {
+      "id": "19",
+      "title": "Chevrolet Silverado",
+      "price": 28600,
+      "description": "The Chevrolet Silverado is built to handle tough tasks with ease, offering robust performance and a spacious, high-quality interior.",
+      "category": "Pickup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg/280px-2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 50000
+      }
+    },
+    {
+      "id": "20",
+      "title": "Honda Accord",
+      "price": 24670,
+      "description": "The Honda Accord is a staple of reliability and efficiency, providing a comfortable ride with advanced technology and a spacious cabin.",
+      "category": "Sedan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Honda_Accord_%28CV3%29_EX_eHEV%2C_2021%2C_front.jpg/280px-Honda_Accord_%28CV3%29_EX_eHEV%2C_2021%2C_front.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 86000
+      }
+    },
+    {
+      "id": "21",
+      "title": "Toyota Highlander",
+      "price": 34585,
+      "description": "Ideal for families, the Toyota Highlander offers three rows of seating, strong safety features, and a balanced combination of power and fuel efficiency.",
+      "category": "SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/280px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 75000
+      }
+    },
+    {
+      "id": "22",
+      "title": "Lexus RX",
+      "price": 44700,
+      "description": "The Lexus RX sets the standard for luxury crossover SUVs with its refined interior, smooth ride, and leading-edge technology.",
+      "category": "Luxury SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2016_Lexus_RX_200t_front_view.jpg/280px-2016_Lexus_RX_200t_front_view.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 18000
+      }
+    },
+    {
+      "id": "23",
+      "title": "Porsche Cayenne",
+      "price": 67500,
+      "description": "With its dynamic performance and luxurious amenities, the Porsche Cayenne delivers sports car-like handling in the form of an SUV.",
+      "category": "Luxury SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2019_Porsche_Cayenne_V6_Tiptronic_3.0_Front.jpg/280px-2019_Porsche_Cayenne_V6_Tiptronic_3.0_Front.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 11000
+      }
+    },
+    {
+      "id": "24",
+      "title": "Acura MDX",
+      "price": 46525,
+      "description": "The Acura MDX offers a perfect blend of luxury, performance, and comfort, featuring three-row seating and an array of premium features.",
+      "category": "Luxury SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2022_Acura_MDX_Technology%2C_front_7.2.22.jpg/280px-2022_Acura_MDX_Technology%2C_front_7.2.22.jpg",
+      "rating": {
+        "rate": 3.7,
+        "count": 9500
+      }
+    },
+    {
+      "id": "25",
+      "title": "Audi Q5",
+      "price": 43100,
+      "description": "The Audi Q5 is admired for its balance of style, technology, and performance, making it a top pick in the luxury compact SUV category.",
+      "category": "Luxury SUV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2017_Audi_Q5_%28FY%29_TDI_Sport_quattro_ultra_wagon_%282018-09-17%29_01.jpg/280px-2017_Audi_Q5_%28FY%29_TDI_Sport_quattro_ultra_wagon_%282018-09-17%29_01.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 6500
+      }
+    }
+  ]
+}
